@@ -3,7 +3,7 @@ import Routes from './routes';
 import './styles.css'
 
 import Header from './components/Header';
-//import Main from './pages/main';
+import Main from './pages/main';
 
 
 class App extends Component {
